@@ -54,6 +54,7 @@ const ContactPage = () => {
     <>
       <MetaTags title="Contact" description="Contact page" />
 
+      <h1>Contact us</h1>
       <Toaster />
       <Form
         onSubmit={onSubmit}
